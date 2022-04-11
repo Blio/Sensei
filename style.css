@@ -286,7 +286,9 @@ div.discount {
     display: inline-grid;
 }
 
-
+div.position_text {
+    padding-left: 65px !important;
+}
 
   }
 

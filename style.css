@@ -290,6 +290,11 @@ div.position_text {
     padding-left: 65px !important;
 }
 
+.navbar-expand-lg {    
+    flex-flow: column;
+}
+	
+	
   }
 
 

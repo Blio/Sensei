@@ -252,6 +252,7 @@ div.rights{
     margin-top: 10px;
 }
 
+ /* Responsive Design Css For mobile phones: */
 
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
@@ -263,6 +264,13 @@ div.rights{
 display:flex;
     
 }
+	
+	 /* Footer Social Media handles
+	 .row {
+    display: inline-grid;
+	}
+	 */
+	
 div.see_all {
     height: 326px;
 }
